@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+theme: just-the-docs
+encding: utf-8
+plugins: 
+  - jekyll-github-metadata
+github : [metadata]
+repository: iccoha/Jekyll-practice 
